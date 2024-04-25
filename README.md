@@ -18,7 +18,7 @@ tktk Write a short but descriptive summary of the content in this module.
 | [Using Special Number Operators](./using-special-number-operators/README.md) | 25 min | Examine how class methods can manipulate data in the Math class.  |
 | [Primitives vs. Objects](./primitives-vs-objects/README.md) | 25 min | Examine how to call methods on a variable with a String data type.  |
 | [Converting Between Data Types](./converting-between-data-types/README.md) | 10 min | Describe the difference between NaN and null.  |
-| [Data Types and Variables Practice](./data-types-and-variables-practice) | 20 min | Practice manipulating and editing data types and variables.  |
+| [Data Types and Variables Practice](./data-types-and-variables-practice/README.md) | 20 min | Practice manipulating and editing data types and variables.  |
 | **Total content**        | 90 min |  |
 
 
