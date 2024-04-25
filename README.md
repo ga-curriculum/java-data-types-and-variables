@@ -12,39 +12,21 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md)                         | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                        | -- | -- |                                         |
+| Lesson | Time | Learning Objectives |
+| ------ |:----------:|:------ |
+| [Data Types in Java](./data-types-in-java/README.md)  | 10 min | Predict what data falls into data type catagories with ideated examples.  |
+| [Using Special Number Operators](./using-special-number-operators/README.md) | 25 min | Examine how class methods can manipulate data in the Math class.  |
+| [Primitives vs. Objects](./primitives-vs-objects/README.md) | 25 min | Examine how to call methods on a variable with a String data type.  |
+| [Converting Between Data Types](./converting-between-data-types/README.md) | 10 min | Describe the difference between NaN and null.  |
+| [Data Types and Variables Practice](./data-types-and-variables-practice/README.md) | 20 min | Practice manipulating and editing data types and variables.  |
+| **Total content**        | 90 min |  |
 
-## Level Up content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-04/README.md) | -- | -- | tktk skills covered                     |
-| **Total Level Up content**                               | -- | -- |                                         |
+## Additional Resources
+📖 [Oracle Java Docs on Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+📖 [Oracle Java Docs on the `Math` Object](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html) 
 
-## References
-
-📖 [Reference Materials](./references/README.md)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
-
-## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
+## Internal Resources
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
