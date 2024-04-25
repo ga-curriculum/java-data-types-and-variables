@@ -6,7 +6,7 @@
 
 <!-- **Instructor Note**: This can be a pair programming activity or done independently.-->
 
-Grab the starter code from `VariablePractice` and complete all of the tasks. We'll go over the answers in 12 minutes.
+Grab the starter code from [Variable Practice](./Variable-Practice/) and complete all of the tasks. We'll go over the answers in 12 minutes.
 
 ***
 
