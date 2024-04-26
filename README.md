@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+Delve into the intricacies of Java, focusing on its data types and their applications, various variable types and their appropriate usage, and the manipulation of data using class methods within the Math and String classes. Additionally, you'll distinguish between the concepts of NaN and null. This module is perfectly suited for those looking to expand their programming knowledge in Java, offering practical experience and deeper insight into data handling and manipulation in Java.
 
 ## Prerequisites
 
