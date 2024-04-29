@@ -121,7 +121,7 @@ Taking a square root? Use `Math.sqrt(num1)`:
 
 ``` java
 // √(4) becomes
-Math.sqrt(4);
+System.out.println( Math.sqrt(4) );
 => 2
 ```
 
@@ -129,13 +129,15 @@ Need a random number? Use `Math.random()`:
 
 ``` java
 // Returns double value with positive sign greater than or equal to 0.0 and less than 1.0.
-Math.random()
+System.out.println( Math.random() );
 => ?
+int max = 10;
+int min = 1;
 // Returns random number in range.
 int range = Math.abs(max - min) + 1;
-(Math.random() * range) + min;
+System.out.println( (Math.random() * range) + min);
 ```
 
-> **Knowledge Check**: Who provides the `Math` object? Where do you think you might be able to find more information? ([Oracle Math Documentation](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html)).
+> **Knowledge Check**: Who provides the `Math` object? Where do you think you might be able to find more information? ([Oracle Math Documentation](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)).
 
 _Created by Kristen Tonga_
