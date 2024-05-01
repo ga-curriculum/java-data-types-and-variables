@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/data-types-in-java.png)
 
 **Learning objective:** By the end of this lesson, students will be able to predict what data falls into data type categories with ideated examples.
 

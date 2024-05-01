@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/coverting-between-data-types.png)
 
 **Learning objective:** By the end of this lesson, students will be able to describe the difference between `NaN` and `null`. 
 

@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/data-types-and-variables-practice.png)
 
 **Learning objective:** By the end of this lesson, students will be able to manipulate and edit data types and variables. 
 

@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/using-special-number-operators.png)
 
 **Learning objective:** By the end of this lesson, students will be able to examine how class methods can manipulate data in the `Math` class. 
 

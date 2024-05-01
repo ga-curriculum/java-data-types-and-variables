@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/data-types-and-variables-header.png)
 
 ## About
 
@@ -6,9 +6,7 @@ Delve into the intricacies of Java, focusing on its data types and their applica
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- None. 
 
 ## Content
 
