@@ -50,14 +50,14 @@ Try this with me. You can instantiate (or create an instance) of a `String` like
 
 ``` java
 // Variable can be assigned like a primitive
-String a = "I'm a string."
+String a = "I'm a string.";
 ```
 
 This is short for:
 
 ``` java
 // Variable assigned like an object
-String a = new String("I'm a string too!")
+String a = new String("I'm a string too!");
 ```
 
 #### `String` Helper Methods
