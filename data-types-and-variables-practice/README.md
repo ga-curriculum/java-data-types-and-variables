@@ -6,7 +6,7 @@
 
 <!-- **Instructor Note**: This can be a pair programming activity or done independently.-->
 
-Grab the starter code from [Variable Practice](./Variable-Practice/) and complete all of the tasks. We'll go over the answers in 12 minutes.
+Download the starter code from [Variable Practice](./Variable-Practice/) and complete all of the tasks. We'll go over the answers as a class. 
 
 ***
 
@@ -16,5 +16,3 @@ Grab the starter code from [Variable Practice](./Variable-Practice/) and complet
 
 - Identify the different types of data.
 - What type of data do you think is passed as a web request?
-
-_Created by Kristen Tonga_
