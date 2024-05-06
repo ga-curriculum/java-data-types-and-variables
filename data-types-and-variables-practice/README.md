@@ -32,20 +32,17 @@ Copy the following code into your `main` method and replace the `___` with the a
 ```java
 ___ oldYear = 1950;
 ___ nowYear = 2016;
-
 ___ averageFamilyIncome1950 = 3_300;
 ___ medianHomePrice1950 = 7_354;
 ___ tuitionYale1950 = 600;
 ___ roomAndBoardYale1950 = 456;
 ___ otherExpensesYale1950 = 376;
-
 ___ averageFamilyIncome2015 = 51_017;
 ___ medianHomePrice2015 = 188_900;
 ___ medianHomePriceManhattan2013 = 855_000;
 ___ tuitionYale2015 = 45_800;
 ___ roomAndBoardYale2015 = 14_000;
 ___ otherExpensesYale2015 = 5_552;
-
 ___ intro = "To understand how purchasing power has changed in the past 65 years, it is useful to compare the family income to the cost of goods and services, such as housing and education.";
 ```
 
@@ -98,6 +95,69 @@ The numbers for this exercise were taken from the following sources:
 - [Manhattan Real Estate Ten-Year Review](http://www.forbes.com/sites/erincarlyle/2014/01/30/manhattan-real-estate-ten-year-review-neighborhoods-where-prices-have-gone-up-the-most/)
 - [Americans' Personal Debt Skyrockets](https://www.mainstreet.com/article/americans-personal-debt-skyrockets)
 - [Average Credit Card Debt per Household](http://www.nerdwallet.com/blog/credit-card-data/average-credit-card-debt-household/)
+
+### Solution
+
+<details>
+<summary>Click to view the solution</summary>
+
+```java
+int oldYear = 1950;
+int nowYear = 2016;
+int averageFamilyIncome1950 = 3_300;
+int medianHomePrice1950 = 7_354;
+int tuitionYale1950 = 600;
+int roomAndBoardYale1950 = 456;
+int otherExpensesYale1950 = 376;
+int averageFamilyIncome2015 = 51_017;
+int medianHomePrice2015 = 188_900;
+int medianHomePriceManhattan2013 = 855_000;
+int tuitionYale2015 = 45_800;
+int roomAndBoardYale2015 = 14_000;
+int otherExpensesYale2015 = 5_552;
+
+String intro = "To understand how purchasing power has changed in the past 65 years, it is useful to compare the family income to the cost of goods and services, such as housing and education.";
+
+if (intro.equals("A long time ago in a galaxy far, far away")) {
+    System.out.println("May the force be with you.");
+} else {
+    System.out.println(intro);
+}
+
+double homeRatio1950 = (double) medianHomePrice1950 / averageFamilyIncome1950;
+double homeRatio2015 = (double) medianHomePrice2015 / averageFamilyIncome2015;
+double homeRatioNYC2013 = (double) medianHomePriceManhattan2013 / averageFamilyIncome2015;
+
+System.out.println(homeRatio1950);
+System.out.println(homeRatio2015);
+System.out.println(homeRatioNYC2013);
+
+int totalCost1950 = tuitionYale1950 + roomAndBoardYale1950 + otherExpensesYale1950;
+int totalCost2015 = tuitionYale2015 + roomAndBoardYale2015 + otherExpensesYale2015;
+
+double educationRatio1950 = (double) totalCost1950 / averageFamilyIncome1950;
+double educationRatio2015 = (double) totalCost2015 / averageFamilyIncome2015;
+
+System.out.println(educationRatio1950);
+System.out.println(educationRatio2015);
+
+String averageDebt1950 = "2000";
+int debt1950 = Integer.parseInt(averageDebt1950);
+
+int creditCardDebt2010 = 15_355;
+int totalDebt2010 = 129_579;
+String debt = "Debt is an unwelcome guest at the table in many American households. In the late 1940s and early 1950s, the average American consumer had less than $" + debt1950 + " in total personal debt. Today, the average U.S. household with debt carries $" + creditCardDebt2010 + " in credit card debt and $" + totalDebt2010 + " in total debt.";
+
+boolean containsTable = debt.contains("table");
+System.out.println(containsTable);
+
+double debtIncomeRatio1950 = (double) debt1950 / averageFamilyIncome1950;
+double debtIncomeRatio2010 = (double) totalDebt2010 / averageFamilyIncome2015;
+
+System.out.printf("Debt-to-income ratio in 1950: %.2f\n", debtIncomeRatio1950);
+System.out.printf("Debt-to-income ratio in 2010: %.2f\n", debtIncomeRatio2010);
+```
+</details>
 
 ## Conclusion (5 min)
 
