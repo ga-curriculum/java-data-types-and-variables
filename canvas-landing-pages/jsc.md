@@ -17,5 +17,5 @@ Delve into the intricacies of Java, focusing on its data types and their applica
 
 
 ## Additional Resources
-📖 [Oracle Java Docs on Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-📖 [Oracle Java Docs on the `Math` Object](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html) 
+- 📖 [Oracle Java Docs on Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+- 📖 [Oracle Java Docs on the `Math` Object](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html) 
