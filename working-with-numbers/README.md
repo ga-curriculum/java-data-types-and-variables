@@ -132,7 +132,7 @@ System.out.println( Math.sqrt(4) );
 // Prints: 2
 ```
 
-### NaN
+### `NaN`
 
 Be careful not to produce non-real or imaginary numbers when carrying out arithmetic, for example:
 
