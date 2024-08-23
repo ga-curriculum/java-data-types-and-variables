@@ -1,0 +1,52 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+primitiveDataTypes = new Template.Microlesson {
+  friendlyName = "Primitive Data Types"
+  dirName = "primitive-data-types"
+  type = "Content"
+  videoUrl = ""
+}
+
+workingWithNumbers = new Template.Microlesson {
+  friendlyName = "Working With Numbers"
+  dirName = "working-with-numbers"
+  type = "Content"
+  videoUrl = ""
+}
+
+primitiveVsObjectTypes = new Template.Microlesson {
+  friendlyName = "Primitive vs. Object Types"
+  dirName = "primitive-vs-object-types"
+  type = "Content"
+  videoUrl = ""
+}
+
+theStringDataType = new Template.Microlesson {
+  friendlyName = "The String Data Type"
+  dirName = "the-string-data-type"
+  type = "Content"
+  videoUrl = ""
+}
+
+convertingBetweenDataTypes = new Template.Microlesson {
+  friendlyName = "Converting Between Data Types"
+  dirName = "converting-between-data-types"
+  type = "Content"
+  videoUrl = ""
+}
+
+dataTypesAndVariablesPractice = new Template.Microlesson {
+  friendlyName = "Data Types and Variables Practice"
+  dirName = "data-types-and-variables-practice"
+  type = "Content"
+  videoUrl = ""
+}

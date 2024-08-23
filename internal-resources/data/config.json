@@ -1,0 +1,217 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Java Data Types and Variables",
+    "name": "java-data-types-and-variables",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "jda",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Primitive Data Types",
+          "dirName": "primitive-data-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Working With Numbers",
+          "dirName": "working-with-numbers",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Primitive vs. Object Types",
+          "dirName": "primitive-vs-object-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The String Data Type",
+          "dirName": "the-string-data-type",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Converting Between Data Types",
+          "dirName": "converting-between-data-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Data Types and Variables Practice",
+          "dirName": "data-types-and-variables-practice",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "jsc",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Primitive Data Types",
+          "dirName": "primitive-data-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Working With Numbers",
+          "dirName": "working-with-numbers",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Primitive vs. Object Types",
+          "dirName": "primitive-vs-object-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The String Data Type",
+          "dirName": "the-string-data-type",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Converting Between Data Types",
+          "dirName": "converting-between-data-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Data Types and Variables Practice",
+          "dirName": "data-types-and-variables-practice",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Primitive Data Types",
+          "dirName": "primitive-data-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Working With Numbers",
+          "dirName": "working-with-numbers",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Primitive vs. Object Types",
+          "dirName": "primitive-vs-object-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The String Data Type",
+          "dirName": "the-string-data-type",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Converting Between Data Types",
+          "dirName": "converting-between-data-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Data Types and Variables Practice",
+          "dirName": "data-types-and-variables-practice",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
