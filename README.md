@@ -30,6 +30,12 @@ This module focuses on Java's primitive and basic object data types. Participant
 
 - Intro to Java
 
+### Course landing pages
+
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-data-types-and-variables/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-data-types-and-variables/canvas-landing-pages/jsc.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-data-types-and-variables/canvas-landing-pages/fallback.html)
+
 ## Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
