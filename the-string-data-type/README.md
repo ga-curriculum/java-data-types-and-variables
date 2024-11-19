@@ -3,7 +3,7 @@
   <span class="subhead">The <code>String</code> Data Type</span>
 </h1>
 
-**Learning objective**: By the end of this lesson, students will be able to demonstrate an understanding of the `String` data type, including some of its unique behavior.
+**Learning objective**: By the end of this lesson, students will be able to employ the String data type effectively in Java, leveraging its unique behaviors to solve common programming challenges.
 
 <div class="activity guided-walkthrough">
   <h2 class="title">Creating and working with the <code>String</code> type</h2>

@@ -3,7 +3,7 @@
   <span class="subhead">Converting Between Data Types</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to describe implicit and explicit casting.
+**Learning objective:** By the end of this lesson, students will be able to distinguish between implicit and explicit casting in Java and use each to handle type conversions safely.
 
 <div class="activity guided-walkthrough">
   <h2 class="title">Implicit and explicit casting</h2>

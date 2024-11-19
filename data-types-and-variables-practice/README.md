@@ -19,7 +19,10 @@ Clear or comment out your current work in the `main()` method in your <code clas
 Copy the following code into your `main()` method:
 
 ```java
-        // TODO: Fix the following variable declarations by providing the correct type in place of the ___. Fix the value of currentYear so that it is the correct year. BONUS - handle getting the current year programmatically.
+        // TODO: Fix the following variable declarations by providing the 
+        //       correct type in place of the ___. Fix the value of currentYear 
+        //       so that it is the correct year. BONUS - handle getting the
+        //       current year programmatically.
 
         // ___ moonLandingYear = 1969;
         // ___ currentYear = 1991;
@@ -35,23 +38,30 @@ Copy the following code into your `main()` method:
 
         // TODO: Complete the following mathematical calculations.
 
-        // Calculate the time difference between moonLandingYear and currentYear, and print the result.
+        // Calculate the time difference between moonLandingYear and 
+        // currentYear, and print the result.
 
-        // Divide distanceToMoonKM by the average speed of light (299,792 km/s) to find how long it takes for light to travel from the Moon to Earth. Print the result.
+        // Divide distanceToMoonKM by the average speed of light (299,792 km/s)
+        // to find how long it takes for light to travel from the Moon to Earth.
+        // Print the result.
 
         // TODO: Convert the following String into a number.
 
         String population2011 = "7_000_000_000";
 
-        // TODO: Complete the following variable declarations, find the typo, and replace the /*something*/s in the String with the proper variables.
+        // TODO: Complete the following variable declarations, find the typo, 
+        //       and replace the /*something*/s in the String with the proper
+        //       variables.
 
         // ___ averageHumanLifespanYears = 72;
         // ___ numberOfContinents = 7;
         // String earthStats = "The average human lifespan is /*something*/ years, and our planet has /*something*/ continents.";
 
-        // TODO: Using one line of code, determine if the `earthStats` string contains the word "wonders". Print the result to the command line.
+        // TODO: Using one line of code, determine if the `earthStats` string 
+        //       contains the word "wonders". Print the result.
 
-        // TODO: Calculate the average temperature between the highest recorded temperature and the lowest recorded temperature.
+        // TODO: Calculate the average temperature between the highest recorded 
+        //       temperature and the lowest recorded temperature.
 
         // EXTRA: Round the answer above to two decimal places.
 ```

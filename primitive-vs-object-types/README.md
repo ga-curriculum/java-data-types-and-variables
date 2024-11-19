@@ -3,7 +3,7 @@
   <span class="subhead">Primitive vs. Object Types</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to differentiate between primitive and object types.
+**Learning objective:** By the end of this lesson, students will be able to identify when to use primitive types versus object types to optimize memory usage and program performance.
 
 <div class="timed-section">
   <h2>What is an object type?</h2>
