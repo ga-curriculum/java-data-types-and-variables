@@ -22,4 +22,4 @@ This module focuses on Java's primitive and basic object data types. Participant
 
 ## References
 
-📖 [Reference Materials](./references/README.md)
+📖 [Reference Materials](../references/README.md)
